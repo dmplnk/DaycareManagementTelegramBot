@@ -80,14 +80,19 @@ python bot.py
 ---
 
 ## 📸 Интерфейс
+
 ### Стартовое сообщение
-<img width="706" height="686" alt="image" src="https://github.com/user-attachments/assets/7f581b6a-b16f-448c-9ddf-f43c01fe7f58" />
+![Стартовое сообщение](https://github.com/user-attachments/assets/7f581b6a-b16f-448c-9ddf-f43c01fe7f58)
+
 ### Авторизация пользователя
-<img width="713" height="694" alt="image" src="https://github.com/user-attachments/assets/c39973d9-8c80-4f78-93dc-81184832a110" />
+![Авторизация пользователя](https://github.com/user-attachments/assets/c39973d9-8c80-4f78-93dc-81184832a110)
+
 ### Меню родителя
-<img width="708" height="693" alt="image" src="https://github.com/user-attachments/assets/86c88ac7-7ada-48fa-9164-70c59b77b149" />
+![Меню родителя](https://github.com/user-attachments/assets/86c88ac7-7ada-48fa-9164-70c59b77b149)
+
 ### Уведомления воспитателя
-<img width="699" height="649" alt="image" src="https://github.com/user-attachments/assets/21159ba4-faf4-41d8-bc2d-2e82b1cd1026" />
+![Уведомления воспитателя](https://github.com/user-attachments/assets/21159ba4-faf4-41d8-bc2d-2e82b1cd1026)
+
 
 ---
 
