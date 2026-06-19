@@ -82,16 +82,17 @@ python bot.py
 ## 📸 Интерфейс
 
 ### Стартовое сообщение
-![Стартовое сообщение](https://github.com/user-attachments/assets/7f581b6a-b16f-448c-9ddf-f43c01fe7f58)
+![Стартовое сообщение](results-screenshots/01_start.png)
+
 
 ### Авторизация пользователя
-![Авторизация пользователя](https://github.com/user-attachments/assets/c39973d9-8c80-4f78-93dc-81184832a110)
+![Авторизация пользователя](results-screenshots/02_auth.png)
 
 ### Меню родителя
-![Меню родителя](https://github.com/user-attachments/assets/86c88ac7-7ada-48fa-9164-70c59b77b149)
+![Меню родителя](results-screenshots/03_parent_menu.png)
 
 ### Уведомления воспитателя
-![Уведомления воспитателя](https://github.com/user-attachments/assets/21159ba4-faf4-41d8-bc2d-2e82b1cd1026)
+![Уведомления воспитателя](results-screenshots/04_tutor_messages.png)
 
 
 ---
